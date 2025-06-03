@@ -12,7 +12,7 @@ A simple Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScrip
 ---
 
 ## 📸 Demo
-![Game Screenshot] (screenshot.png)
+![Game Screenshot](screenshot.png)
 
 ---
 
@@ -35,4 +35,21 @@ A simple Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScrip
 1. **Clone the Repository**
 
    ``bash
-   git clone https://github.com/markumed1/rock-paper-scissors-game-mini-project/
+   git clone [https://github.com/markumed1/rock-paper-scissors-game-mini-project/](https://github.com/markumed1/rock-paper-scissors-game-mini-project)
+
+2. Navigate to the Project Folder
+cd rock-paper-scissors-game-mini-project
+
+3. Open index.html in your Browser
+   Just double-click the index.html file or use a live server if you're using VS code.
+
+---
+
+🙏 Credits
+Big thanks to [Sahand Ghavidel](https://github.com/sahandghavidel) for the original idea and source project. This version was made for learning and practice purposes.
+
+---
+
+
+
+
