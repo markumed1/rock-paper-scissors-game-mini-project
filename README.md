@@ -8,4 +8,4 @@ A simple Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScrip
 > All credit goes to Sahand Ghavidel for the original structure and concept. I used this as a hands-on practice project and added some personal touches along the way.
 
 ## 📸 Demo
-![Screenshot] (screenshot.png)
+
