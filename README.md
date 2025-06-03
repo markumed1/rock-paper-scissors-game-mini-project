@@ -46,10 +46,19 @@ cd rock-paper-scissors-game-mini-project
 ---
 
 🙏 Credits
+
 Big thanks to [Sahand Ghavidel](https://github.com/sahandghavidel) for the original idea and source project. This version was made for learning and practice purposes.
 
 ---
 
+📄 License
 
+This project is for educational and personal use. The original source is credited above-please refer to [Sahand Ghavidel's repository](https://github.com/sahandghavidel) for licensing details on the template.
+
+---
+
+📫 Contact
+
+If you'd like to connect or collaborate, feel free to check out my [GitHub](github.com/markumed1)
 
 
